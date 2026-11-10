@@ -1,0 +1,15 @@
+Artificial Intelligence (AI)
+
+Artificial Intelligence is a branch of computer science that focuses on creating machines and software capable of performing tasks that normally require human intelligence.
+
+Machine Learning is a subset of Artificial Intelligence. It allows computers to learn from data and improve their performance without being explicitly programmed for every task.
+
+Deep Learning is a subset of Machine Learning that uses neural networks with multiple layers to process complex information.
+
+Natural Language Processing (NLP) allows computers to understand, interpret, and generate human language. It is used in chatbots, translation software, and voice assistants.
+
+Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval with language generation. It allows an AI system to retrieve relevant information from documents before generating an answer.
+
+Embeddings are numerical representations of text. They help computers understand the semantic meaning of words and sentences and find related information.
+
+Vector databases store embeddings and allow applications to search for information based on similarity rather than exact keyword matches.
